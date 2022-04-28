@@ -1,0 +1,7 @@
+{
+  "TOKEN": "BotのToken",
+  "ServerID": "サーバーID",
+  "ChannelID": "チャンネルID",
+  "mp3": "music.mp3",
+  "time": "30 30 * * * *"
+}
